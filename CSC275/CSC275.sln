@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Polymorph", "Polymorph\Poly
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Execptions", "Execptions\Execptions.vcxproj", "{DEF20429-18BB-4B96-8337-C8A32A49FE6A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wordsearch", "wordsearch\wordsearch.vcxproj", "{42229284-B412-4937-88FE-CE58A59CDEBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{DEF20429-18BB-4B96-8337-C8A32A49FE6A}.Release|x64.Build.0 = Release|x64
 		{DEF20429-18BB-4B96-8337-C8A32A49FE6A}.Release|x86.ActiveCfg = Release|Win32
 		{DEF20429-18BB-4B96-8337-C8A32A49FE6A}.Release|x86.Build.0 = Release|Win32
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Debug|x64.ActiveCfg = Debug|x64
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Debug|x64.Build.0 = Debug|x64
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Debug|x86.ActiveCfg = Debug|Win32
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Debug|x86.Build.0 = Debug|Win32
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Release|x64.ActiveCfg = Release|x64
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Release|x64.Build.0 = Release|x64
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Release|x86.ActiveCfg = Release|Win32
+		{42229284-B412-4937-88FE-CE58A59CDEBC}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

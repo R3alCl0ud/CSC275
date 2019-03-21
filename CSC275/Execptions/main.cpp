@@ -17,6 +17,7 @@ public:
 int main(int argc, char** argv) {
 	
 	try {
+
 		if (argc == 1) throw 1;
 		if (argc == 2) throw MyException();
 		if (argc == 3) throw "more than 2 for some reason";
